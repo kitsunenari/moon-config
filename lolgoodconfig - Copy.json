@@ -1,0 +1,947 @@
+[
+  {
+    "name": "autoclicker",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "CPS": "8-12"
+  },
+  {
+    "name": "fastladder",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "NORMAL"
+  },
+  {
+    "name": "targetstrafe",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Distance": "3.0",
+    "Angle": "20.0",
+    "Players": "true",
+    "Animals": "false",
+    "Monsters": "false",
+    "Invisibles": "false",
+    "Press Space only": "false",
+    "Render Circle": "false"
+  },
+  {
+    "name": "esp",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "CSGO",
+    "Players": "true",
+    "Animals": "true",
+    "Mobs": "false",
+    "Invisibles": "false",
+    "Passives": "true",
+    "Box": "true",
+    "Health": "true",
+    "Armor": "true",
+    "Filled": "false",
+    "Corner": "true",
+    "Color Sync": "true",
+    "Show Item": "true",
+    "Thickness": "3.5",
+    "Box Transparency": "155",
+    "Shader": "true",
+    "Blur": "false",
+    "Color": "-1003089"
+  },
+  {
+    "name": "dmgparticle",
+    "key": 0,
+    "enabled": true,
+    "hidden": false
+  },
+  {
+    "name": "reach",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Range": "4.38"
+  },
+  {
+    "name": "invmanager",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Inventory Mode": "NORMAL",
+    "Delay": "150",
+    "Delay Randomization": "50",
+    "Block Limit": "256",
+    "Clean Inventory": "true",
+    "Auto Armor": "true",
+    "Auto Sword": "true",
+    "Keep Tools": "true",
+    "Hotbar Tools": "true",
+    "Tools slot": "1"
+  },
+  {
+    "name": "sprint",
+    "key": 0,
+    "enabled": true,
+    "hidden": false
+  },
+  {
+    "name": "autotool",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "MouseCheck": "true"
+  },
+  {
+    "name": "vanishdetector",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "murdermystery",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "autosword",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Delay": "100",
+    "Slot": "0",
+    "Inventory Only": "false",
+    "Custom Items": "true"
+  },
+  {
+    "name": "aimassist",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Range": "4.0",
+    "Players": "true",
+    "Animals": "false",
+    "Monsters": "false",
+    "Invisibles": "false"
+  },
+  {
+    "name": "timechanger",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Time": "18400"
+  },
+  {
+    "name": "skeletonesp",
+    "key": 0,
+    "enabled": true,
+    "hidden": true,
+    "VisibleOnly": "false",
+    "Width": "3.4"
+  },
+  {
+    "name": "mcf",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "penisesp",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "SelfLength": "2.0",
+    "FriendLength": "0.8",
+    "EnemyLength": "0.1",
+    "Uncircumcised": "false"
+  },
+  {
+    "name": "autoapple",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Eat heads": "true",
+    "Eat apples": "true",
+    "Health": "10",
+    "Delay": "750"
+  },
+  {
+    "name": "bloom",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "fullbright",
+    "key": 0,
+    "enabled": true,
+    "hidden": false
+  },
+  {
+    "name": "tpaura",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "CPS": "7-11",
+    "Range": "50.0",
+    "Mode": "TEST"
+  },
+  {
+    "name": "scoreboard",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Y-Pos": "150"
+  },
+  {
+    "name": "noscoreboard",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "sneak",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "VANILLA"
+  },
+  {
+    "name": "streamermode",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Hide Names": "true",
+    "Hide Scoreboard ID": "true"
+  },
+  {
+    "name": "antibot",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "WATCHDOG",
+    "Remove Bots": "false"
+  },
+  {
+    "name": "phase",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "WATCHDOG",
+    "Distance": "2.0",
+    "Vanilla Speed": "0.5",
+    "Vertical Speed": "0.5"
+  },
+  {
+    "name": "fastbow",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "NORMAL",
+    "Request Mode": "NORMAL"
+  },
+  {
+    "name": "tracers",
+    "key": 0,
+    "enabled": true,
+    "hidden": true,
+    "Players": "true",
+    "Animals": "true",
+    "Mobs": "false",
+    "Invisibles": "false",
+    "Passives": "true",
+    "Width": "1.0"
+  },
+  {
+    "name": "motiongraph",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Seconds until Disappear": "10"
+  },
+  {
+    "name": "criticals",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Mode": "WATCHDOG"
+  },
+  {
+    "name": "itemsize",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "X": "0.0",
+    "Y": "0.0",
+    "Scale": "2.0"
+  },
+  {
+    "name": "disabler",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Mode": "SENTINEL"
+  },
+  {
+    "name": "backtracing",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Size": "25"
+  },
+  {
+    "name": "animation",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Mode": "LUCKY",
+    "Hit Slowdown": "false",
+    "Slowdown Strength": "5",
+    "X": "0.0",
+    "Y": "0.0",
+    "Scale": "2.0",
+    "Spin Speed": "1"
+  },
+  {
+    "name": "bedbreaker",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Range": "4.0"
+  },
+  {
+    "name": "noweb",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "NORMAL"
+  },
+  {
+    "name": "chatbypass",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "outlineesp",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Players": "true",
+    "Animals": "true",
+    "Mobs": "false",
+    "Invisibles": "false",
+    "Passives": "true",
+    "Shader": "false",
+    "Team Color": "false",
+    "Outline Color": "-1"
+  },
+  {
+    "name": "jesus",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "VANILLA"
+  },
+  {
+    "name": "norotate",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "glint",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Glint Color": "-65536",
+    "Armor": "false"
+  },
+  {
+    "name": "clickgui",
+    "key": 54,
+    "enabled": false,
+    "hidden": true,
+    "Mode": "MATERIAL",
+    "No Scrolling": "false",
+    "Color": "-14342875",
+    "Transparency": "255",
+    "Blur Radius": "20"
+  },
+  {
+    "name": "killaura",
+    "key": 48,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "FAITHFUL",
+    "Sort Mode": "DISTANCE",
+    "CPS": "17-19",
+    "Range": "5.3",
+    "Block Range": "9.3",
+    "Particles Multiplier": "4",
+    "Max Targets": "2",
+    "Players": "true",
+    "Animals": "false",
+    "Monsters": "false",
+    "Invisibles": "false",
+    "AutoBlock": "true",
+    "Animate": "false",
+    "Dynamic": "true",
+    "Faster Switching": "true",
+    "Teams": "false",
+    "Switch Speed": "300",
+    "Durability": "false",
+    "Multi Targets": "3",
+    "Multi FOV": "75",
+    "Target ESP": "true",
+    "Target ESP Modes": "BOXY",
+    "Target ESP Color": "-1"
+  },
+  {
+    "name": "packets counter",
+    "key": 0,
+    "enabled": false,
+    "hidden": true
+  },
+  {
+    "name": "netgraph",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "shooter",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Delay": "150",
+    "FOV": "100",
+    "Target ESP": "true",
+    "Teams": "false"
+  },
+  {
+    "name": "autopot",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Potions": "true",
+    "Jump": "false",
+    "Regen Pots": "true",
+    "Speed Pots": "true",
+    "Health": "10",
+    "Delay": "5"
+  },
+  {
+    "name": "glow",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Shader Mode": "FADING",
+    "Shader Radius": "5.5",
+    "Shader Fading": "180.0",
+    "Glow Alpha": "0.0",
+    "Blur Strength": "4",
+    "Override Texture": "false",
+    "Blur Twice": "false",
+    "Gamma Correction": "false",
+    "Glow Color": "-9109467"
+  },
+  {
+    "name": "nobobbing",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "nofall",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "EDIT"
+  },
+  {
+    "name": "detector",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Autodisable": "true",
+    "Unblock": "true",
+    "Chat": "true",
+    "Strict": "true",
+    "CheatingWarning": "true",
+    "AutoNoU": "true"
+  },
+  {
+    "name": "speedmine",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Speed": "0.2"
+  },
+  {
+    "name": "breadcrumbs",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Seconds until Disappear": "10"
+  },
+  {
+    "name": "flight",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "VANILLA",
+    "Verus Mode": "NORMAL",
+    "Watchdog Mode": "DAMAGE",
+    "ViewBob": "true",
+    "Boost": "false",
+    "Extra Boost": "false",
+    "Safe Damage": "false",
+    "Infinite": "false",
+    "Dev Values": "false",
+    "Blink": "false",
+    "Blink Indicator": "false",
+    "Blink Length": "45",
+    "Drop Fly": "false",
+    "Watchdog Speed": "2.0",
+    "Timer Speed": "2.5",
+    "Timer Length": "500",
+    "Fly Speed": "2.0",
+    "Max Speed": "2.0",
+    "Mineplex Timer": "0.6",
+    "Mineplex Accel": "0.085"
+  },
+  {
+    "name": "trajectories",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "invcleaner",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Delay": "150",
+    "Opening Delay": "700",
+    "Toggle": "true",
+    "Inventory Only": "false",
+    "Keep Tools": "true",
+    "Keep Bows": "true",
+    "Keep Arrows": "true",
+    "Keep Flint n Steels": "true",
+    "Keep TNT": "true",
+    "Keep Buckets": "true",
+    "Keep Boats": "true",
+    "Keep Shears": "true",
+    "Custom Items": "true"
+  },
+  {
+    "name": "antivoid",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Distance until Fall": "5.0",
+    "HighJump": "false"
+  },
+  {
+    "name": "teleport",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "regen",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "Normal",
+    "Speed": "25.0"
+  },
+  {
+    "name": "blur",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Radius": "20",
+    "Toaster Blur": "false",
+    "Blur Chat": "false",
+    "Blur Scoreboard": "false",
+    "Blur TabGUI": "false"
+  },
+  {
+    "name": "nohurtcam",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "secret",
+    "key": 0,
+    "enabled": true,
+    "hidden": true
+  },
+  {
+    "name": "blink",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "fov",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Normal FOV": "0.1",
+    "Sprint FOV": "0.13"
+  },
+  {
+    "name": "noslowdown",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Modes": "VANILLA",
+    "Items": "true",
+    "Sprint": "true",
+    "SoulSand": "true"
+  },
+  {
+    "name": "waypoints",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Font": "true",
+    "WaypointFont": "Arial-0-16-true-true"
+  },
+  {
+    "name": "speed",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "WATCHDOG",
+    "Damage boost": "1.0",
+    "Verus Mode": "HOP",
+    "Strafe Bypass": "false",
+    "Vanilla Speed": "1.2",
+    "Bhop Speed": "1.2",
+    "Jump Y-Value": "0.42",
+    "Ground Friction": "0.66",
+    "Ground Boost": "2.14"
+  },
+  {
+    "name": "longjump",
+    "key": 47,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "MINEPLEX",
+    "Boost": "3.0",
+    "Watchdog Boost": "0.6",
+    "Damage": "false",
+    "Cubecraft Boost": "0.1",
+    "Speed Addition": "1.0"
+  },
+  {
+    "name": "autoarmor",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Drop": "true",
+    "Delay": "250",
+    "Opening Delay": "250",
+    "Delay between actions": "true",
+    "Inventory Only": "false"
+  },
+  {
+    "name": "itemphysics",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Speed": "0.5"
+  },
+  {
+    "name": "timer",
+    "key": 44,
+    "enabled": false,
+    "hidden": false,
+    "Tick delay": "true",
+    "Delay": "1.0",
+    "Timer Speed": "1.6"
+  },
+  {
+    "name": "pingspoof",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "NORMAL",
+    "Delay": "50"
+  },
+  {
+    "name": "automatchjoin",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Type": "INSANE",
+    "Auto Detect": "true",
+    "Teams only mode": "true",
+    "Delay": "3000"
+  },
+  {
+    "name": "offscreenesp",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Size": "10.0",
+    "Radius": "45",
+    "Fade": "false",
+    "Players": "true",
+    "Animals": "true",
+    "Mobs": "false",
+    "Invisibles": "false",
+    "Passives": "true",
+    "Distance Mode": "false",
+    "Color": "-1"
+  },
+  {
+    "name": "unstuck",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Delay": "500",
+    "Automated": "true"
+  },
+  {
+    "name": "irc",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "TABLIST"
+  },
+  {
+    "name": "chams",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Shader": "false",
+    "Shader Alpha": "0.5",
+    "Team Color": "false",
+    "Mixing Percentage": "0.5",
+    "Shader Color": "-65536",
+    "Visible": "-65536",
+    "Hidden": "-65281",
+    "Visible Friend": "-13618945",
+    "Hidden Friend": "-57248",
+    "Players": "true",
+    "Animals": "true",
+    "Mobs": "false",
+    "Invisibles": "false",
+    "Passives": "true",
+    "ShowArmor": "true",
+    "Colored": "true",
+    "Hands": "false",
+    "Raindow": "false",
+    "CSGO": "false",
+    "Blur": "false"
+  },
+  {
+    "name": "chestesp",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Redstone": "-379392",
+    "Normal": "-16734465",
+    "Ender": "-5373697",
+    "Mode": "BOX"
+  },
+  {
+    "name": "copsncrims",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Delay": "300",
+    "Target ESP": "true"
+  },
+  {
+    "name": "freecam",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "autogg",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "invwalk",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "spammer",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Delay": "4.9"
+  },
+  {
+    "name": "nametags",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Players": "true",
+    "Animals": "true",
+    "Mobs": "false",
+    "Invisibles": "false",
+    "Passives": "true",
+    "Font": "true",
+    "Background": "true",
+    "Distance": "true",
+    "Health": "true",
+    "Health Rect": "true",
+    "Outlined Text": "true",
+    "Color Sync": "true",
+    "Dandelion": "false"
+  },
+  {
+    "name": "fastuse",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Speed": "10.0"
+  },
+  {
+    "name": "velocity",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Mode": "INTAVE",
+    "Intave Modes": "DEV",
+    "Horizontal": "0",
+    "Vertical": "0",
+    "Delay": "1250",
+    "Delayed ping": "false",
+    "Stack Size": "5"
+  },
+  {
+    "name": "cheststealer",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Delay": "100",
+    "Miss": "true",
+    "ChestAura": "false",
+    "AuraRange": "4.0",
+    "Custom Inventorys": "false",
+    "Silent": "false",
+    "Render Gui": "false"
+  },
+  {
+    "name": "lightningtracker",
+    "key": 0,
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "crosshair",
+    "key": 0,
+    "enabled": true,
+    "hidden": true,
+    "Dynamic": "true",
+    "Width": "1.0",
+    "Gap": "3.0",
+    "Length": "7.0",
+    "DynamicGap": "1.5",
+    "Color": "-65536",
+    "Rainbow": "false",
+    "Static Rainbow": "false"
+  },
+  {
+    "name": "radar",
+    "key": 0,
+    "enabled": false,
+    "hidden": true,
+    "X": "0",
+    "Y": "0",
+    "Width": "100",
+    "Mode": "Normal"
+  },
+  {
+    "name": "scaffold",
+    "key": 45,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "NCP",
+    "KillAura": "true",
+    "Switch": "true",
+    "Watchdog": "false",
+    "Tower": "true",
+    "Tower Boost": "1.0",
+    "KeepY": "true",
+    "Downwards": "true"
+  },
+  {
+    "name": "hud",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Client Name": "Moon 3.0",
+    "HUD": "CUSTOM",
+    "Color": "-1",
+    "Watermark": "MOON",
+    "ArrayList": "MOON",
+    "Novo Sidebar": "false",
+    "Novo Background": "false",
+    "Astolfo Sidebar": "false",
+    "Astolfo Background": "false",
+    "Remix Sidebar": "false",
+    "Remix Background": "false",
+    "Moon Sidebar": "false",
+    "Moon Background": "false",
+    "Minecraft Font": "false",
+    "Background Alpha": "60",
+    "Sidebar": "RIGHT",
+    "Release Build": "MOON",
+    "PotionHUD": "MOON",
+    "TargetHUD": "MOON",
+    "Tab GUI": "MOON",
+    "TabGUI Font": "true",
+    "Information": "MOON",
+    "Keystrokes": "NONE",
+    "Better Chat": "false",
+    "Better Scoreboard": "false"
+  },
+  {
+    "name": "bowaimbot",
+    "key": 0,
+    "enabled": true,
+    "hidden": false,
+    "Players": "true",
+    "Animals": "false",
+    "Mobs": "false",
+    "Invisibles": "false",
+    "SortMode": "FOV",
+    "Range": "70.0"
+  },
+  {
+    "name": "blinklag",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Delay": "5",
+    "Watchdog": "true"
+  },
+  {
+    "name": "step",
+    "key": 0,
+    "enabled": false,
+    "hidden": false,
+    "Mode": "VANILLA",
+    "Smooth": "false",
+    "Height": "1.0",
+    "Delay": "300"
+  }
+]
